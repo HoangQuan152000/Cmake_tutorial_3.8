@@ -1,0 +1,10 @@
+# ninja log v5
+0	615	7494990539324331	MathFunctions/CMakeFiles/MakeTable.dir/MakeTable.cxx.obj	77cdcc690811104a
+615	1179	7494990544479227	MathFunctions/MakeTable.exe	5a4f70fa1e48a859
+1179	1307	7494990546355401	MathFunctions/Table.h	8eb893e8f612babc
+1310	1395	7494990547134942	MathFunctions/CMakeFiles/MathFunctions.dir/MathFunctions.cxx.obj	d6106a20dd0cf259
+1315	1710	7494990550259197	MathFunctions/CMakeFiles/SqrtLibrary.dir/mysqrt.cxx.obj	31c03e5e3be83d06
+1307	1741	7494990550571560	CMakeFiles/Tutorial.dir/tutorial.cxx.obj	cc9512a3ccec6bdf
+1710	1823	7494990551040203	MathFunctions/SqrtLibrary.lib	6aedcb82363a86b6
+1823	1880	7494990551821266	MathFunctions/MathFunctions.lib	6347be9240eb70f2
+1881	2296	7494990555726599	Tutorial.exe	ad5150fab48f250b

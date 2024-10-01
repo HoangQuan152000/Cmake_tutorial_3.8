@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "F:/cmake-3.30.4-tutorial-source/Step10/out/build/x64-Debug/MathFunctions/CMakeFiles/MakeTable.dir/embed.manifest"
